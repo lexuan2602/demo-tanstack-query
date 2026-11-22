@@ -26,6 +26,7 @@ export default function RootLayout({
   return (
     <html lang="vi">
       <body>
+        {/* Test CICD */}
         <Providers>{children}</Providers>
       </body>
     </html>
